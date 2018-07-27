@@ -3,7 +3,7 @@ Eye is a tool for looking for beauty by Facerank.
 
 世上不是缺少美，而是缺少发现美。---黑格尔
 ##### 脸部截取, 文件名 89433是颜值分, AI颜值打分,只筛选高分存储
-![](./screenshot/preview.jpg)
+![](./preview.jpg)
 ## Install
 ```sh
     pip install -r requirements.txt
